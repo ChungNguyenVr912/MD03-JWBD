@@ -1,0 +1,17 @@
+h1{
+    text-align: left;
+    font-family: Arial;
+    margin-bottom: 2px;
+    padding-bottom: 1px;
+    box-shadow: 0 1px #a2a2a2;
+}
+hr{
+    margin: 0;
+}
+p{
+    text-indent: 3em;
+    margin-right: 50%;
+    text-align: justify;
+    font-family: Tahoma;
+    font-size: 0.85em;
+}
